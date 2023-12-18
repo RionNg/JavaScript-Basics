@@ -6,11 +6,11 @@
 
 // 1. Change this function into a ternary and assign it to variable called experiencePoints.
 function experiencePoints() {
-  if (winBattle()) {
-    return 10;
-  } else {
-    return 2;
-  }
+	if (winBattle()) {
+		return 10;
+	} else {
+		return 2;
+	}
 }
 
 var experiencePoints = winBattle() ? 10 : 1;

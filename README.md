@@ -1,4 +1,5 @@
 # JavaScript Basics
 
 - if, else, else if
-- ternary operator, switch
+- ternary operator
+- switch

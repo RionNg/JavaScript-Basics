@@ -23,7 +23,8 @@ function checkDriverAge() {
   }
 }
 
-// 2. Create another function that does the same thing, called checkDriverAge2() using "Function Expression".
+// 2. Create another function that does the same thing,
+//    called checkDriverAge2() using "Function Expression".
 var checkDriverAge2() = function() {
   var age = prompt("Please provide your age");
   if (Number(age) < 18) {

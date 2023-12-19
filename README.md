@@ -3,3 +3,4 @@
 - if, else, else if
 - ternary operator
 - switch
+- Advanced Functions

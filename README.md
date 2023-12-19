@@ -4,3 +4,4 @@
 - ternary operator
 - switch
 - Advanced Functions
+- Advanced Arrays

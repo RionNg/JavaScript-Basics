@@ -1,4 +1,4 @@
-// ternary
+// Ternary
 
 // condition ? expression1 : expression2;
 // if condition is true = expression1

@@ -1,3 +1,6 @@
+// Advanced Functions
+//  -- Closures, Currying, Compose
+
 const first = () => {
 	const greet = 'Hi';
 	const second = () => {

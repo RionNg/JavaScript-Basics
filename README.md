@@ -7,3 +7,4 @@
 - Advanced Arrays (forEach, map, filter, reduce)
 - Advanced Objects (reference type, context, instantiation)
 - Pass by Value Vs Pass by Reference
+- Type Coercion

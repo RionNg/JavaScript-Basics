@@ -8,3 +8,4 @@
 - Advanced Objects (reference type, context, instantiation)
 - Pass by Value Vs Pass by Reference
 - Type Coercion
+- Advanced Loops (for...of, for...in)

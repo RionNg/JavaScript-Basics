@@ -10,3 +10,4 @@
 - Type Coercion
 - Advanced Loops (for...of, for...in)
 - `this` keyword
+- Inheritance

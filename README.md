@@ -11,3 +11,4 @@
 - Advanced Loops (for...of, for...in)
 - `this` keyword
 - Inheritance
+- Compose Vs. Pipe

@@ -12,3 +12,4 @@
 - `this` keyword
 - Inheritance
 - Compose Vs. Pipe
+- Simple Shopping Cart (Pipe / Compose)

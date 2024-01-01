@@ -13,3 +13,4 @@
 - Inheritance
 - Compose Vs. Pipe
 - Simple Shopping Cart (Pipe / Compose)
+- Parallel, Race, Sequence
